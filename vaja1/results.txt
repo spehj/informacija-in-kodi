@@ -1,0 +1,36 @@
+Rezulat za datoteke/slika.bmp
+Rezultat: H/niz:	['7.59', '13.86', '17.84', '19.24', '19.83']
+Rezultat: H/znak:	['7.59', '6.93', '5.95', '4.81', '3.97']
+
+Rezulat za datoteke/slika.png
+Rezultat: H/niz:	['7.99', '15.78', '19.35', '19.47', '19.48']
+Rezultat: H/znak:	['7.99', '7.89', '6.45', '4.87', '3.90']
+
+Rezulat za datoteke/slika.jpeg
+Rezultat: H/niz:	['7.97', '15.39', '17.02', '17.05', '17.05']
+Rezultat: H/znak:	['7.97', '7.70', '5.67', '4.26', '3.41']
+
+Rezulat za datoteke/posnetek.wav
+Rezultat: H/niz:	['6.35', '11.98', '15.83', '19.30', '21.36']
+Rezultat: H/znak:	['6.35', '5.99', '5.28', '4.83', '4.27']
+
+Rezulat za datoteke/posnetek.mp3
+Rezultat: H/niz:	['7.96', '15.80', '21.26', '21.62', '21.69']
+Rezultat: H/znak:	['7.96', '7.90', '7.09', '5.40', '4.34']
+
+Rezulat za datoteke/posnetek.ogg
+Rezultat: H/niz:	['7.98', '15.78', '20.47', '20.82', '20.91']
+Rezultat: H/znak:	['7.98', '7.89', '6.82', '5.20', '4.18']
+
+Rezulat za datoteke/posnetek.flac
+Rezultat: H/niz:	['7.95', '15.87', '22.84', '23.70', '23.70']
+Rezultat: H/znak:	['7.95', '7.93', '7.61', '5.92', '4.74']
+
+Rezulat za datoteke/besedilo.txt
+Rezultat: H/niz:	['4.57', '7.99', '10.88', '13.25', '15.17']
+Rezultat: H/znak:	['4.57', '3.99', '3.63', '3.31', '3.03']
+
+Rezulat za datoteke/besedilo.zip
+Rezultat: H/niz:	['8.00', '15.88', '18.68', '18.71', '18.71']
+Rezultat: H/znak:	['8.00', '7.94', '6.23', '4.68', '3.74']
+

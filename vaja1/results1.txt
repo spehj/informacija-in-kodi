@@ -1,0 +1,36 @@
+Rezulat za datoteke/slika.bmp
+Rezultat: H/niz:	['7.5885', '13.8582', '17.8354', '19.2440', '19.8313']
+Rezultat: H/znak:	['7.5885', '6.9291', '5.9451', '4.8110', '3.9663']
+
+Rezulat za datoteke/slika.png
+Rezultat: H/niz:	['7.9871', '15.7762', '19.3477', '19.4729', '19.4777']
+Rezultat: H/znak:	['7.9871', '7.8881', '6.4492', '4.8682', '3.8955']
+
+Rezulat za datoteke/slika.jpeg
+Rezultat: H/niz:	['7.9701', '15.3902', '17.0191', '17.0463', '17.0475']
+Rezultat: H/znak:	['7.9701', '7.6951', '5.6730', '4.2616', '3.4095']
+
+Rezulat za datoteke/posnetek.wav
+Rezultat: H/niz:	['6.3524', '11.9789', '15.8276', '19.3044', '21.3643']
+Rezultat: H/znak:	['6.3524', '5.9895', '5.2759', '4.8261', '4.2729']
+
+Rezulat za datoteke/posnetek.mp3
+Rezultat: H/niz:	['7.9580', '15.7964', '21.2605', '21.6197', '21.6855']
+Rezultat: H/znak:	['7.9580', '7.8982', '7.0868', '5.4049', '4.3371']
+
+Rezulat za datoteke/posnetek.ogg
+Rezultat: H/niz:	['7.9754', '15.7825', '20.4705', '20.8182', '20.9081']
+Rezultat: H/znak:	['7.9754', '7.8913', '6.8235', '5.2046', '4.1816']
+
+Rezulat za datoteke/posnetek.flac
+Rezultat: H/niz:	['7.9542', '15.8685', '22.8379', '23.6963', '23.7040']
+Rezultat: H/znak:	['7.9542', '7.9343', '7.6126', '5.9241', '4.7408']
+
+Rezulat za datoteke/besedilo.txt
+Rezultat: H/niz:	['4.5685', '7.9883', '10.8814', '13.2529', '15.1655']
+Rezultat: H/znak:	['4.5685', '3.9941', '3.6271', '3.3132', '3.0331']
+
+Rezulat za datoteke/besedilo.zip
+Rezultat: H/niz:	['7.9986', '15.8807', '18.6822', '18.7083', '18.7085']
+Rezultat: H/znak:	['7.9986', '7.9404', '6.2274', '4.6771', '3.7417']
+
